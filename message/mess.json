@@ -1,0 +1,13 @@
+{
+    "wait": "*Tunggu.....*",
+    "error": {
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
+    },
+    "OnlyGrup": "Group Only",
+    "OnlyPM": "Private Only",
+    "GrupAdmin": "Admin Only",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Owner Only",
+    "OnlyPrem": "Perintah ini khusus member premium"
+}
